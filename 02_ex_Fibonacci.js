@@ -1,5 +1,6 @@
 //Altere o numero abaixo
 const Numero = 13;
+// Altere o valor acima
 
 let FibonacciObj = [0, 1, 1];
 let found = false;
